@@ -11,4 +11,12 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0137-single-number-ii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Deepak77993/Java-DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Deepak77993/Java-DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
