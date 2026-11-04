@@ -27,6 +27,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak77993/Java-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Deepak77993/Java-DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak77993/Java-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
@@ -39,5 +40,10 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepak77993/Java-DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak77993/Java-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Deepak77993/Java-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
