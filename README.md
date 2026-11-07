@@ -8,6 +8,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | ------- |
 | [0137-single-number-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0137-single-number-ii) |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak77993/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak77993/Java-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Deepak77993/Java-DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
@@ -55,4 +57,8 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
