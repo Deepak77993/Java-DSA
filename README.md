@@ -7,6 +7,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0137-single-number-ii) |
+| [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak77993/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak77993/Java-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -60,5 +62,10 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
