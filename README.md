@@ -35,6 +35,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak77993/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Deepak77993/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak77993/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak77993/Java-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Deepak77993/Java-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/Deepak77993/Java-DSA/tree/master/1544-make-the-string-great) |
@@ -78,5 +79,14 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak77993/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak77993/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak77993/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
