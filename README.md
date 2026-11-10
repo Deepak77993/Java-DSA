@@ -8,6 +8,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | ------- |
 | [0137-single-number-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0137-single-number-ii) |
 | [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -89,4 +90,16 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak77993/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
