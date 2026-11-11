@@ -21,11 +21,13 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Deepak77993/Java-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Deepak77993/Java-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
