@@ -21,6 +21,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Deepak77993/Java-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Deepak77993/Java-DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -33,6 +34,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak77993/Java-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Deepak77993/Java-DSA/tree/master/0061-rotate-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Deepak77993/Java-DSA/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
