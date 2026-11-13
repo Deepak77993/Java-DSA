@@ -13,6 +13,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak77993/Java-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Deepak77993/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Deepak77993/Java-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/Deepak77993/Java-DSA/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Deepak77993/Java-DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Deepak77993/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
