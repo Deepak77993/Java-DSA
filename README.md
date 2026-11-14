@@ -109,4 +109,8 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/Deepak77993/Java-DSA/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
