@@ -6,6 +6,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0137-single-number-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0137-single-number-ii) |
 | [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
@@ -113,4 +114,8 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/Deepak77993/Java-DSA/tree/master/2469-convert-the-temperature) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
