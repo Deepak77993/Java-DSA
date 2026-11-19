@@ -42,6 +42,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak77993/Java-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Deepak77993/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Deepak77993/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak77993/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak77993/Java-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -88,6 +89,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Deepak77993/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak77993/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
 ## Queue
@@ -113,6 +115,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Deepak77993/Java-DSA/tree/master/0012-integer-to-roman) |
 | [2469-convert-the-temperature](https://github.com/Deepak77993/Java-DSA/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
