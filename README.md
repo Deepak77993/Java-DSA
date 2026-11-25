@@ -12,6 +12,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Deepak77993/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak77993/Java-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Deepak77993/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -128,8 +129,13 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Deepak77993/Java-DSA/tree/master/0069-sqrtx) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Deepak77993/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Deepak77993/Java-DSA/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Deepak77993/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
