@@ -6,6 +6,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0137-single-number-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -128,6 +129,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Deepak77993/Java-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
