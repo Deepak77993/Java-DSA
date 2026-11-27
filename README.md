@@ -15,6 +15,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Deepak77993/Java-DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Deepak77993/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Deepak77993/Java-DSA/tree/master/0875-koko-eating-bananas) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deepak77993/Java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak77993/Java-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Deepak77993/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -134,6 +135,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | [0069-sqrtx](https://github.com/Deepak77993/Java-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Deepak77993/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Deepak77993/Java-DSA/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
