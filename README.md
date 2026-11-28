@@ -10,6 +10,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0137-single-number-ii](https://github.com/Deepak77993/Java-DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Deepak77993/Java-DSA/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/Deepak77993/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Deepak77993/Java-DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Deepak77993/Java-DSA/tree/master/0682-baseball-game) |
@@ -134,6 +135,7 @@ My Data Structures and Algorithms journey using Java | LeetCode &amp; GeeksforGe
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Deepak77993/Java-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak77993/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Deepak77993/Java-DSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Deepak77993/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Deepak77993/Java-DSA/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
